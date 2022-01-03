@@ -5,6 +5,7 @@ public class Main {
     public static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        DiscountCalculator.manage();
+        //DiscountCalculator.manage();
+        ChangeDistributor.giveBackChange();
     }
 }
