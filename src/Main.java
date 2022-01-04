@@ -8,6 +8,7 @@ public class Main {
         //DiscountCalculator.manage();
         //ChangeDistributor.giveBackChange();
 //        Tierce.calculateChances();
-        BFS.checkGraph();
+//        BFS.checkGraph();
+        PrimeNumber.getPrimes();
     }
 }
