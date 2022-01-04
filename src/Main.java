@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         //DiscountCalculator.manage();
         //ChangeDistributor.giveBackChange();
-        Tierce.calculateChances();
+//        Tierce.calculateChances();
+        BFS.checkGraph();
     }
 }
